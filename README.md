@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # nuxt-first-project
 This is my first project by Nuxt.js by lessons [Dmitriy Lavrik]
 
+=======
+>>>>>>> 5cef29f (dz #1 v1-data types)
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
